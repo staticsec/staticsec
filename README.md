@@ -19,9 +19,4 @@
  
 </div>
 
-<a href="https://github.com/staticsec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=staticsec&theme=midnight-purple&show_icons=true" />
-</a>
-
-  ##
-
+  </div>
