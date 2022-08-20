@@ -17,7 +17,7 @@
 </div>
 <div style="display: inline_block"><br>
 
-  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/1008249243590467674/1008574732834189332/7ab8773482_VvymgaO3D1.png"/>
+  <img align="right" alt="GIF" src=""/>
  
 </div>
 
