@@ -16,8 +16,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staticsec&layout=compact&langs_count=7&theme=dracula%22/%3E">
 </div>
 <div style="display: inline_block"><br>
-
-  <img align="right" alt="GIF" src=""/>
  
 </div>
 
